@@ -1,6 +1,12 @@
 ---
 name: minions-crm-pipeline
-description: Deal stages, transitions, revenue forecasts, and win/loss tracking
+id: OC-0122
+version: 1.0.0
+description: "Deal stages, transitions, revenue forecasts, and win/loss tracking"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-crm-pipeline — Agent Skills
