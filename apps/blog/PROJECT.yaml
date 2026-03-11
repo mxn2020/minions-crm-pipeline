@@ -1,0 +1,8 @@
+name: "@minions-crm-pipeline/blog"
+project_scope: child
+child_type: blog
+parent_project: minions-crm-pipeline-workspace
+description: "Standard compliance definition for @minions-crm-pipeline/blog"
+priority: high
+deploy_url: null
+tags: null

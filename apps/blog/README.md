@@ -1,0 +1,1 @@
+# @minions-crm-pipeline/blog\n\nStandard compliance definition for @minions-crm-pipeline/blog\n\n![CI](https://github.com/mxn2020/@minions-crm-pipeline/blog/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\n

@@ -1,0 +1,8 @@
+name: "@minions-crm-pipeline/docs"
+project_scope: child
+child_type: docs
+parent_project: minions-crm-pipeline-workspace
+description: "Standard compliance definition for @minions-crm-pipeline/docs"
+priority: high
+deploy_url: null
+tags: null
