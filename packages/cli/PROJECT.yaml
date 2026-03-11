@@ -6,3 +6,4 @@ description: "CLI for minions-crm-pipeline — Deal stages, transitions, revenue
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
