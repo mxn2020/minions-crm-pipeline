@@ -1,0 +1,16 @@
+name: minions-crm-pipeline-workspace
+project_scope: main
+project_type: monorepo
+description: Deal stages, transitions, revenue forecasts, and win/loss tracking
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-crm-pipeline"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-crm-pipeline-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
